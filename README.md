@@ -67,9 +67,3 @@ If you’re a hiring manager, mentor, or fellow learner—feel free to connect o
 
 ## ⚡ Fun Fact
 I spent 25 years performing and coaching in high-risk physical environments—now I apply that same discipline to navigating risk in the digital world.
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkgibson-source&layout=compact)
-
-
