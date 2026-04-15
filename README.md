@@ -28,6 +28,13 @@ I’m focused on developing **purple team capabilities**, combining offensive te
 
 ---
 
+## 🎯 Current Focus
+- Improving detection visibility in multi-phase attack scenarios  
+- Expanding evasion testing techniques  
+- Strengthening SIEM analysis workflows
+ 
+---
+
 ## 🚀 Featured Project
 ### 🕳️ The Burrow – Cybersecurity Home Lab
 A fully built, continuously evolving home lab designed to simulate real-world **attack and defense scenarios**.
@@ -38,7 +45,8 @@ A fully built, continuously evolving home lab designed to simulate real-world **
 - Detection testing with and without defensive controls
 - Evasion testing scenarios to simulate advanced threats
 
-👉 **Check it out:** https://github.com/jkgibson-source/cybersecurity-home-lab
+👉 **Explore the full lab →**
+https://github.com/jkgibson-source/cybersecurity-home-lab
 
 ---
 
@@ -59,4 +67,9 @@ If you’re a hiring manager, mentor, or fellow learner—feel free to connect o
 
 ## ⚡ Fun Fact
 I spent 25 years performing and coaching in high-risk physical environments—now I apply that same discipline to navigating risk in the digital world.
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkgibson-source&layout=compact)
+
 
