@@ -36,7 +36,7 @@ I’m focused on developing **purple team capabilities**, combining offensive te
 ---
 
 ## 🚀 Featured Project
-### 🕳️ The Burrow – Cybersecurity Home Lab
+### 🦂 The Burrow – Cybersecurity Home Lab
 A fully built, continuously evolving home lab designed to simulate real-world **attack and defense scenarios**.
 
 🔍 Includes:
@@ -47,6 +47,11 @@ A fully built, continuously evolving home lab designed to simulate real-world **
 
 👉 **Explore the full lab →**
 https://github.com/jkgibson-source/cybersecurity-home-lab
+
+---
+
+## 🦂 Detection Engineering Pentest — macOS Big Sur
+Designed and executed a multi-phase purple team engagement in a custom home lab to evaluate detection capabilities against realistic attack scenarios on macOS Big Sur. Identified a critical gap where endpoint and SIEM tools failed to detect user-driven attacks—not due to misconfiguration, but because OS-level privacy controls (TCC/SIP) prevented access to required telemetry. Demonstrated that effective detection engineering depends on data visibility, not just tooling, and produced a full MITRE-mapped case study highlighting platform-imposed observability constraints.
 
 ---
 
