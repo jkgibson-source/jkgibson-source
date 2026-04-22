@@ -53,6 +53,8 @@ https://github.com/jkgibson-source/cybersecurity-home-lab
 ## 🦂 Detection Engineering Pentest — macOS Big Sur
 Designed and executed a multi-phase purple team engagement in a custom home lab to evaluate detection capabilities against realistic attack scenarios on macOS Big Sur. Identified a critical gap where endpoint and SIEM tools failed to detect user-driven attacks—not due to misconfiguration, but because OS-level privacy controls (TCC/SIP) prevented access to required telemetry. Demonstrated that effective detection engineering depends on data visibility, not just tooling, and produced a full MITRE-mapped case study highlighting platform-imposed observability constraints.
 
+🔎 [**Take a look:**](./cybersecurity-home-lab/investigations/pentests/krypton1t3-big-sur/README.md)
+
 ---
 
 ## 🧠 Mindset
